@@ -1,1 +1,1 @@
-# Estos scripts de MATLAB fueron desarrollados en el marco de mi investigación de tesis en física.
+# These MATLAB scripts were developed as part of my thesis research in physics.
